@@ -7,6 +7,7 @@ La base de datos fue generada con ChatGPT para simular consultas reales de clien
 <img width="688" height="141" alt="image" src="https://github.com/user-attachments/assets/4fdbe08d-bc82-4fb5-abb4-5368f36bdf6a" />
 
 Proceso del proyecto:
+
 ✅Generación de PDF
 Se creó un PDF con 200 registros ficticios de empresas tecnológicas que simulan formularios de contacto o consultas por mail.
 
