@@ -20,17 +20,17 @@ Se desarrolló un buscador usando: Controles de formulario (ActiveX), Programado
 
 Objetivos del proyecto:
 
--Practicar transformación de datos desde PDF
--Aplicar técnicas de automatización en Excel
--Desarrollar buscadores con lógica condicional y diseño funcional
--Adaptar herramientas entre entornos (Excel vs Google Sheets)
--Mejorar habilidades orientadas a tareas de data entry y preparación de bases de datos
+-Practicar transformación de datos desde PDF.
+-Aplicar técnicas de automatización en Excel.
+-Desarrollar buscadores con lógica condicional y diseño funcional.
+-Adaptar herramientas entre entornos (Excel vs Google Sheets).
+-Mejorar habilidades orientadas a tareas de data entry y preparación de bases de datos.
 
 Tecnologías y herramientas utilizadas:
 
 -Excel + Power Query
--Controles de formulario (ActiveX)
--ChatGPT (generación de datos)
+-Controles de formulario (ActiveX).
+-ChatGPT (generación de datos).
 -YouTube (tutorial base para buscador):
 https://www.youtube.com/watch?v=JQjxFpAk0YQ
 
