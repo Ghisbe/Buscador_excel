@@ -20,7 +20,7 @@ Se desarrolló un buscador usando: Controles de formulario (ActiveX), Programado
 
 Objetivos del proyecto:
 
-*Practicar transformación de datos desde PDF.
+- Practicar transformación de datos desde PDF.
 *Aplicar técnicas de automatización en Excel.
 *Desarrollar buscadores con lógica condicional y diseño funcional.
 *Adaptar herramientas entre entornos (Excel vs Google Sheets).
